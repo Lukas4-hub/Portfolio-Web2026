@@ -1,7 +1,7 @@
 export default function SobreMi(){
     return(
         <section
-        id="sobre"
+        id="sobre-mi"
         className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-gray-800 text-gray-200 px-8 py-24 gap-16"
       >
         {/* Imagen de perfil */}
