@@ -3,6 +3,8 @@ import Navbar from "@/components/Navbar";
 import Inicio from "@/components/Inicio";
 import Proyectos from "@/components/Proyectos";
 import Contacto from "@/components/Contacto";
+import SobreMi from "@/components/SobreMi";
+
 
 export default function Home() {
   return (
@@ -18,6 +20,9 @@ export default function Home() {
       <hr className="border-gray-700 my-12 mx-auto w-3/4" />
 
       {/* SECCIÓN PROYECTOS (vacía por ahora) */}
+      <SobreMi/>
+      <hr className="border-gray-700 my-12 mx-auto w-3/4" />
+
     <Proyectos/>
 
       {/* SECCIÓN CONTACTO (vacía por ahora) */}
