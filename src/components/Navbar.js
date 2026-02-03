@@ -38,7 +38,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="#sobre"
+            href="#sobre-mi"
             onClick={() => setOpen(false)}
             className="relative block text-center hover:text-white transition-colors duration-300 group"
           >

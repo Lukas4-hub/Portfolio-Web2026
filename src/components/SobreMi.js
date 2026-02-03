@@ -7,7 +7,7 @@ export default function SobreMi(){
         {/* Imagen de perfil */}
         <div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg">
           <img
-            src="\foto_inicio.jpeg"
+            src="\foto_inicio.png"
             alt="Foto de Lucas Beltrame"
             className="w-full h-full object-cover"
           />
