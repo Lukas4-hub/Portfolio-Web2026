@@ -4,7 +4,7 @@ export const proyectos = [
       titulo: "Portfolio Personal",
       descripcion: "Mi portfolio desarrollado con Next.js y Tailwind CSS.",
       tecnologias: ["Next.js", "Tailwind CSS"],
-      link: "https://github.com/Lukas4-hub/Portfolio-Web"
+      link: "https://github.com/Lukas4-hub/Portfolio-Web2026"
     },
     {
       slug: "Onsen-Spa",
