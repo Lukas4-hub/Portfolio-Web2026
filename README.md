@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio — Next.js
 
 Portfolio personal desarrollado con **Next.js** para presentar mis proyectos, habilidades y formas de contacto.  
