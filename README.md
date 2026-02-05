@@ -27,4 +27,3 @@ El objetivo es tener un sitio rápido, limpio y responsive, optimizado para perf
 =======
 # Portfolio-Web2026
 Portafolio web hecho con next.js
->>>>>>> 9aea52ac6ed65f63e7eb252d4665d67f70dbc449
